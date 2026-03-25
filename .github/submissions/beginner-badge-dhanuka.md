@@ -11,4 +11,6 @@ shell: /usr/bin/bash -e {0}
 
 ### Task 2: Understand Workflow Triggers
 
+Show the message "This workflow has a workflow_dispatch event trigger."
+
 ### Task 3: Build and Test Locally
